@@ -21,10 +21,9 @@ Concepts that I addressed:
 Web app screens:
 
 ![image](https://user-images.githubusercontent.com/52401139/134642973-05d7c447-ad0e-43cf-a40c-0e622d4bbfaf.png)
+![image](https://user-images.githubusercontent.com/52401139/134643021-a1ea6c63-811a-4a13-a9b3-7d93b187e6cd.png)
 ![image](https://user-images.githubusercontent.com/52401139/134643005-d3a51e2c-8a81-48f4-a152-3fdbf829f8ad.png)
 ![image](https://user-images.githubusercontent.com/52401139/134642992-4f3d95e2-2e87-46d7-a85c-acb8d9a98da5.png)
-![image](https://user-images.githubusercontent.com/52401139/134643021-a1ea6c63-811a-4a13-a9b3-7d93b187e6cd.png)
-
 
 Full documentation here (Romanian language):
 
