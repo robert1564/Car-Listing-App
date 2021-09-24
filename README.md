@@ -1,5 +1,5 @@
 # Car-Listing-App
-Web app for listing diferent type of cars or whatever the admin want.
+Web app for listing diferent type of cars or whatever the admin want. This project was made at request of one faculty professor for the future students to understand conecepts that I explained.
 
 The app was developed using:
 
